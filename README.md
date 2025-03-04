@@ -1,6 +1,6 @@
 # Demography-of-California-Wildfires-Damages-and-Reason
 
-## Build from sources and run scrapper
+## Build from sources and run scraper
 1. Clone the repository
 '''bash
 git clone https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason.git
