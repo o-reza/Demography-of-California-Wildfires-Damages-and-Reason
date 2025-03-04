@@ -15,12 +15,18 @@ The Website link we scrapped data from is [here](https://calmatters.org/californ
 
 You can visit the Public Tableau Dashboard [here](https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1)  
 
+## Findings from the [Dashboard](https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1)
+- In last 10 year, the California wildfire caused the highest acres burned in 2020 (4304379 Acres)
+- Different causes of California Wildfires and death counts
+- Most affected counties
+- Dollar damage in California wildfire
+  
 ## Build from sources and run scraper
 1. Clone the repository
 '''bash
 git clone https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason.git
 '''
-2. Initialize and activate virtual environment (for windows)
+2. Initialize and activate virtual environment (for Windows)
 '''bash
 virtualenv --no-site-packages venv
 source venv/bin/activate
