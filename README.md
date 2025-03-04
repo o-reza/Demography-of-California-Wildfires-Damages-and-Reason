@@ -1,2 +1,2 @@
 # Demography-of-California-Wildfires-Damages-and-Reason
-Tableau view: https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1
+Tableau public view: https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1
