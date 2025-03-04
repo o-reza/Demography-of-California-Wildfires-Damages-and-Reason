@@ -11,7 +11,8 @@ We used the scrapped data to understand the following demographics:
 -Wildfires in California Due to Lighting & Acres Burned
 -Human-Caused Wildfires in California & Acres Damage
 
-The Website link is [here](https://calmatters.org/california-wildfire-map-tracker/)
+The Website link we scrapped data from is [here](https://calmatters.org/california-wildfire-map-tracker/)
+
 You can visit the Public Tableau Dashboard [here](https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1)  
 
 ## Build from sources and run scraper
