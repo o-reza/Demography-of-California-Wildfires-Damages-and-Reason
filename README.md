@@ -72,7 +72,7 @@ python California_Wildfires_Analysis/fire_causes.py --chromedrive_path <path-to-
    counties_affected: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/counties_affected_data.csv
    deaths: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/deaths.csv 
    fire_causes: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/fire_causes.csv
-   wildfire_dollar_damage: 
+   wildfire_dollar_damage: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/wildfire_dollar_damage.csv
 
 
 
