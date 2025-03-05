@@ -1,5 +1,3 @@
-![Dashboard 1](https://github.com/user-attachments/assets/d1c03bfe-d4da-4527-8e26-2a97e4b02d63)# California-Wildfire-Analysis
-
 ## Problem Statement
 California wildfires cause severe environmental and economic damage. This project analyzes wildfire data, including acres burned, fatalities, major incidents, financial losses, and causes to uncover key trends and impacts.
 
