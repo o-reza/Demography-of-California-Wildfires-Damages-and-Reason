@@ -1,4 +1,4 @@
-# California-Wildfire-Analysis
+![Dashboard 1](https://github.com/user-attachments/assets/d1c03bfe-d4da-4527-8e26-2a97e4b02d63)# California-Wildfire-Analysis
 
 ## Problem Statement
 California wildfires cause severe environmental and economic damage. This project analyzes wildfire data, including acres burned, fatalities, major incidents, financial losses, and causes to uncover key trends and impacts.
@@ -23,6 +23,10 @@ You can visit the Public Tableau Dashboard [here](https://public.tableau.com/app
 - Due to lighting the highest acres burned in California was in 2020 (2,932,231 acres)
 - Human Caused Wildfires in California caused the highest acres burnt in 2018 (888760 acres)
   
+## Dashboard overview in Tableau
+![image](https://github.com/user-attachments/assets/0ad44e35-2912-407f-93c8-45311d8ae552)
+
+
 ## Build from sources and run python files
 1. Clone the repository
 ```bash
