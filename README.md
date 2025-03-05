@@ -25,49 +25,50 @@ You can visit the Public Tableau Dashboard [here](https://public.tableau.com/app
   
 ## Build from sources and run python files
 1. Clone the repository
-'''bash
+```bash
 git clone https://github.com/o-reza/California-Wildfire-Analysis.git
-'''
+```
 2. Initialize and activate virtual environment (for Windows)
-'''bash
+```bash
 virtualenv --no-site-packages venv
 source venv/bin/activate
-'''
+```
 3. Install dependencies
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
 4. Download Chrome web driver from here: https://developer.chrome.com/docs/chromedriver/downloads
 5. Run the following python files & get csv files
-'''bash
+```bash
 python California_Wildfires_Analysis/acres_burned.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/acres_burned.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/counties_affected.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/deaths.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/dollar_damage.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/structure_damage.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-'''bash
+```bash
 python California_Wildfires_Analysis/fire_causes.py --chromedrive_path <path-to-chromedriver>
-'''
+```
 
-7. You will get CSV files with all fields with data, alternatively Check the scrapped data here:
+6. You will get CSV files with all fields with data, alternatively Check the scrapped data here:
     https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/Tracking%20California%20Wildfire/acres_burned.csv 
 
-Tableau public view: https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1 
+Tableau public view: 
+https://public.tableau.com/app/profile/omar.reza/viz/DemographyofCaliforniaWildfiresDamagesReason/Dashboard1 
