@@ -5,9 +5,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import pandas as pd
 
+import argparse
+parser=argparse.ArgumentParser()
+parser.add_argument('--chromedriver_path', type=str, help="check where is the chromedriver in your pc")
+args=parser.parse_args()
+
 def main():
     url = "https://calmatters.org/california-wildfire-map-tracker/?gad_source=1&gclid=Cj0KCQiAy8K8BhCZARIsAKJ8sfS4CG-Qk4fQSwk5ySvizY-3O19Q8aoNgLVKRs9YyAmd-QK2evxiS-saAgVBEALw_wcB"
-    webdriver_path = "C:\Program Files (x86)\chromedriver.exe"
+    webdriver_path = args.chromedriver_path
     service = Service(webdriver_path)
     driver = webdriver.Chrome(service=service)
     driver.get(url)
