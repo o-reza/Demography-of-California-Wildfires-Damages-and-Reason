@@ -70,7 +70,7 @@ python California_Wildfires_Analysis/fire_causes.py --chromedrive_path <path-to-
 6. You will get CSV files with all fields with data, alternatively Check the scrapped data here:
    acres_burned: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/Tracking%20California%20Wildfire/acres_burned.csv
    counties_affected: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/counties_affected_data.csv
-   deaths:
+   deaths: https://github.com/o-reza/Demography-of-California-Wildfires-Damages-and-Reason/blob/main/deaths.csv 
    fire_causes:
    wildfire_dollar_damage
 
